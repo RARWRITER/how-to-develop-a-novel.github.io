@@ -47,3 +47,8 @@ Your decision around what the purpose of your novel is to be will likely determi
 * Character development
 
 The writer must ask - "Why am I telling this story?" "What kind of a story is it?" "What do I want the reader to come away with from reading the story?"
+
+[Back to the Table of Contents](/../../index.md)
+
+[Next - Your Purpose for Writing](/YourPurpose.md)
+
