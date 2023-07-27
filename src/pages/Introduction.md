@@ -5,4 +5,5 @@ This site is provided to offer novelists, and aspiring novelists, suggestions as
 We break the novel down into its essential components, and we do the same with the development process.
 
 [Back to the Table of Contents](/../index.md)
+
 [Next - Your Purpose for Writing](/YourPurpose.md)
