@@ -6,7 +6,7 @@ We break the novel down into its essential components, and we do the same with t
 
 The site is organized around an approach common to information architecture. Concepts are introduced with topics drilling down into how those concepts might be used in story telling. A Table of Contents is provided to help you navigate the site and perhaps visit those pages that spark your interests.
 
-This site is really designed to be read front to back, but before committing to that - and this site will be growing, like a weed, perhaps to include the insights of people with actual knowledge on the novelist's craft. But before all that, a word about the level of madness required to walk (or crawl) your way down this writer path.
+This site is really designed to be read front to back, but before committing to that - and this site will be growing, like a weed, perhaps to include the insights of people with actual knowledge on the novelist's craft - but before all that, a word about the level of madness required to walk (or crawl) your way down this writing path.
 
 ## Do You Really Want to Do This?
 
