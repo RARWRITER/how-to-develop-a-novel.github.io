@@ -10,7 +10,7 @@ A good place to start, in the novel writing process, is to identify your charact
 
     The antagonist in a novel is usually a character who opposes the protagonist (or main character) of a story, but the antagonist can also be a group of characters, an institution, or some force against which the protagonist must contend. The antagonist creates conflicts, obstacles, or situations that make the story more dramatic or comedic. In many cases, the antagonist is the most colorful and interesting character in a novel. Think "The Judge" in *Blood Meridian*.
 
-    ![Blood Meridian](/Images/BloodMeridian.PNG)
+    ![Blood Meridian](/../Images/BloodMeridian.PNG)
 
 ## Build Your Characters' Stories
 
