@@ -19,4 +19,4 @@ The third act features the resolution of the story and its subplots.
 
 [Back to the Table of Contents](/../../index.md)
 
-[Next - About the Author](/AbouttheAuthor.md)
+[Next - The Work](/TheWork.md)
