@@ -1,10 +1,5 @@
 # "How to Develop a Novel" - a work in progress.
-
-
-## Welcome to "How to Develop a Novel" - a work in progress
-
-
-### Table of Contents
+## Table of Contents
 
 1. [Introduction](/src/pages/Introduction.md)
 2. [Your Purpose for Writing](/src/pages/YourPurpose.md)
