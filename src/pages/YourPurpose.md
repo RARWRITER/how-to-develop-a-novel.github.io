@@ -15,7 +15,7 @@ You may have your own purpose for writing and, in fact, it seems important that 
 
 Powerful personal statements can make for great dramatic or literary fiction. You get a lot of that in powerful Black authors, like Toni Morrison or Alex Hailey. And, you got that with Ernest Hemingway, with his insights on war, and on masculinity.
 
-![Blood Meridian](/Images/Beloved.PNG)
+![Blood Meridian](/../Images/BloodMeridian.PNG)
 
 Almost every long narrative writer gets to work on personal stories, like family histories. True accounts of the lives of relatives make great starting places for dramatic retellings, fictionalized accounts.
 
