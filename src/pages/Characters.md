@@ -15,3 +15,9 @@ A good place to start, in the novel writing process, is to identify your charact
 ## Build Your Characters' Stories
 
 Every character who appears in a story should have a purpose for being there. There must be something about who they are and what motivates them for them to be a part of your story, and to understand those complex human issues you need to spend time with your characters. Create back stories for them. Give them personalities, traits, quirks, characteristics. How do they dress, talk, walk and behave. Who do they love, who do they hate, what do they relate to?
+
+[Back to the Table of Contents](/../../index.md)
+
+[Next - Writers' Choices](/WriterChoices.md)
+
+
