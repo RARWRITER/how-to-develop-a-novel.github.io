@@ -5,3 +5,5 @@ Rick Alan Rice is the author of numerous novels, short stories, and screenplays,
 * [Creative Culture Journal](https://creativeculturejournal.com)
 * [Revolution Culture Journal](https://revolutionculturejournal.com)
 
+[Back to the Table of Contents](/../../index.md)
+
