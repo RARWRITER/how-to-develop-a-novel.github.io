@@ -15,3 +15,8 @@ The first act, or opening narration, is usually used for exposition, to establis
 The second act also referred to as rising action typically depicts the protagonist’s attempt to resolve the problem initiated by the first turning point only to find themselves in ever-worsening situations. Part of the reason protagonists seem unable to resolve their problems is that they do not yet have the skills to deal with the forces of antagonism that confront them. They must not only learn new skills but arrive at a higher sense of awareness of who they are and what they are capable of in order to deal with their predicament which in turn changes who they are. This is referred to as character development or a character arc. This cannot be achieved alone and they are usually aided and abetted by mentors and co-protagonists.
 
 The third act features the resolution of the story and its subplots.
+
+
+[Back to the Table of Contents](/../../index.md)
+
+[Next - About the Author](/AbouttheAuthor.md)
