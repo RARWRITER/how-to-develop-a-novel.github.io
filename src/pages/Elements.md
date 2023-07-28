@@ -47,15 +47,15 @@ Freytag's take on the Greek tradition was called **Freytag’s Pyramid**. and it
 
 * **Act One:** **Exposition** introduces the *setting*, *characters*, and *background information* of the story. 
 
-    * It presents the *inciting incident*, which is the event that triggers the main conflict or problem of the story. The inciting incident marks the end of Act One and the beginning of Act Two.
+    * It presents the **inciting incident***, which is the event that triggers the main conflict or problem of the story. The inciting incident marks the end of Act One and the beginning of Act Two.
 
-* **Act Two:** The *rising action* element shows the protagonist facing various obstacles and challenges as they try to resolve the conflict. 
+* **Act Two:** The **rising action** element shows the protagonist facing various obstacles and challenges as they try to resolve the conflict. 
 
-    * The *dilemma* sets the stage for the character development and growth of the protagonist and their allies. 
+    * The ***dilemma** sets the stage for the character development and growth of the protagonist and their allies. 
     
-    The rising action leads to the *climax*, which is the turning point or the most intense moment of the story. The *climax* marks the end of Act Two and the beginning of Act Three.
+    The rising action leads to the **climax**, which is the turning point or the most intense moment of the story. The *climax* marks the end of Act Two and the beginning of Act Three.
 
-* **Act Three:** This act corresponds to the falling action and resolution elements of Freytag’s Pyramid. It shows the consequences and outcomes of the *climax*, and how the protagonist deals with them. It also answers the dramatic question that was raised by the inciting incident, and wraps up any loose ends or subplots. The resolution is followed by the *denouement*, which is an optional element that provides a sense of closure or finality to the story.
+* **Act Three:** This act corresponds to the falling action and resolution elements of Freytag’s Pyramid. It shows the consequences and outcomes of the *climax*, and how the protagonist deals with them. It also answers the dramatic question that was raised by the inciting incident, and wraps up any loose ends or subplots. The resolution is followed by the **denouement**, which is an optional element that provides a sense of closure or finality to the story.
 
 **NOTE:** I leaned heavily on the Bing robot for language and structure in discussing the above. The language was likely lifted from these sources:
 
