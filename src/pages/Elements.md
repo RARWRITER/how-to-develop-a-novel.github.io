@@ -32,7 +32,17 @@ Therefore, setting is not just a backdrop for a story, but a vital element that 
 
 ## Point of view
 
-Text
+Point of view is a term that refers to the perspective from which a story is told. It determines who is narrating the story, how much they know, and how they relate to the reader. Point of view is an important choice for a writer, as it can affect the tone, mood, and meaning of the story.
+
+**THREE MAIN TYPES OF POINT OF VIEW**
+
+* **First Person:** First person point of view uses the pronouns “I” and “we” to tell the story from the writer’s or a character’s point of view. The reader can access the narrator’s thoughts, feelings, and opinions directly, creating a sense of intimacy and connection. However, this point of view also limits the reader’s knowledge to what the narrator knows and experiences, which can be biased or unreliable. First person point of view is common in novels that are character-driven, such as young adult, science fiction, and memoir.
+
+* **Second Person:** Second person point of view uses the pronouns “you” and “your” to address the reader directly, as if they are part of the story. The reader becomes an active participant in the story, making choices and facing consequences. However, this point of view can also be intrusive or alienating, as it imposes a certain role and perspective on the reader. Second person point of view is rare in novels, but it can be found in some experimental or interactive fiction.
+
+* **Third Person:** Third person point of view uses the pronouns “he”, “she”, “they”, and other names to tell the story from an outside or objective point of view. The reader can observe the actions and dialogues of multiple characters, as well as their thoughts and feelings if the narrator is omniscient (all-knowing). However, this point of view can also create a distance or detachment between the reader and the characters, as well as a loss of intimacy or voice. Third person point of view is common in novels that are plot-driven, such as fantasy, mystery, and historical fiction.
+
+Point of view is a crucial element of writing a novel, as it shapes how the reader perceives and engages with the story. A writer should choose a point of view that suits their genre, theme, and style, as well as their intended effect on the reader.
 
 ## Timeline
 
