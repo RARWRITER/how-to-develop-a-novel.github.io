@@ -12,11 +12,11 @@ Setting, in a work of fiction, is the device used by the writer to establish thr
 
 These elements of the novel's setting influence characters and events, and are essential to providing readers with the contexts they need to imagine those characters and events. Setting lets the reader in on the type of literary world he or she is entering.
 
-    SIDE NOTE: Novelist/educator John Gardner wrote the influential **On Becoming A Novelist**, in which he dispensed information good and bad (to my mind), but one particularly powerful concept he used was that of "the real toad in the imaginary garden". You can imagine viewing a static scene in which something suddenly moves, drawing your eye to this living aspect within this static environment. Something has life.
+  *SIDE NOTE:* Novelist/educator John Gardner wrote the influential **On Becoming A Novelist**, in which he dispensed information good and bad (to my mind), but one particularly powerful concept he used was that of "the real toad in the imaginary garden". You can imagine viewing a static scene in which something suddenly moves, drawing your eye to this living aspect within this static environment. Something has life.
 
-    Gardner used that concept of setting - the "imaginary garden" - and action - "the real toad" - to describe those moments in a two-dimensional narrative when suddenly a third, elevating dimension reveals itself. That's when fiction comes to life.
+  Gardner used that concept of setting - the "imaginary garden" - and action - "the real toad" - to describe those moments in a two-dimensional narrative when suddenly a third, elevating dimension reveals itself. That's when fiction comes to life.
 
-    Gardner borrowed the phrase from a poem by Marianne Moore (**Poetry**). In the poem, Moore says that poetry is about creating imaginary gardens with real toads in them, meaning that poetry should combine imagination and reality, and that it should present genuine things in a new and interesting way. That is a Bing robot summary of Moore's thinking, which may or may not represent a full understanding of her thinking.   
+  Gardner borrowed the phrase from a poem by Marianne Moore (**Poetry**). In the poem, Moore says that poetry is about creating imaginary gardens with real toads in them, meaning that poetry should combine imagination and reality, and that it should present genuine things in a new and interesting way. That is a Bing robot summary of Moore's thinking, which may or may not represent a full understanding of her thinking.   
 
 You need a setting appropriate for the active toad. If your toad is at all typical, it will probably be an outdoor setting, so already your toad story has parameters, a stage on which to act out the play.
 
