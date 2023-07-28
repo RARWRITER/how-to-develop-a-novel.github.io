@@ -46,15 +46,15 @@ Point of view is a crucial element of writing a novel, as it shapes how the read
 
 ## Timeline
 
-<section under development>
+section under development
 
 ## Voice
 
-<section under development>
+section under development
 
 ## Attitude
 
-<section under development>
+section under development
 
 ## Plot
 
@@ -107,11 +107,11 @@ Here is my sense for how this plotting, pyramid approach might be visualized.
 
 ## Dramatic Milestones
 
-Te<section under development>xt
+section under development
 
 ## Character development
 
-<section under development>
+section under development
 
 
 [Back to the Table of Contents](/../../index.md)
