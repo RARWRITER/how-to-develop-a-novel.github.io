@@ -50,5 +50,5 @@ The writer must ask - "Why am I telling this story?" "What kind of a story is it
 
 [Back to the Table of Contents](/../../index.md)
 
-[Next - Story Elements](/Elements.md)
+[Next - Novel Genres](/Genres.md)
 
