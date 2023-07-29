@@ -20,6 +20,56 @@ Asked about books that every novelist should read, the Bing robot replied with t
 
 * *The Adventures of Huckleberry Finn* by Mark Twain: This novel is a picaresque adventure that follows the journey of Huckleberry Finn, a young boy who escapes from his abusive father and travels down the Mississippi River with Jim, a runaway slave. The novel portrays the realities and contradictions of slavery, racism, and freedom in America through humor, satire, dialects, and irony.
 
+That's a fine list, but of course it only begins to touch the surface of a deep lake of literature worth reading.
+
+Popular recent titles (21st Century) include:
+
+* *The Kite Runner* by Khaled Hosseini
+* *The Amazing Adventures of Kavalier & Clay* by Michael Chabon
+* *Life of Pi* by Yann Martel
+* *The Road* by Cormac McCarthy
+* *The Girl with the Dragon Tattoo* by Stieg Larsson
+* *The Flamethrowers* by Rachel Kushner
+* *The Sellout* by Paul Beatty
+* *The Sisters Brothers* by Patrick DeWitt
+* *A Visit from the Goon Squad* by Jennifer Egan
+* *The Three Body Experience* by Liu Cixin
+
+
+Here are a books that I would include as must-reads:
+
+* *Look Homeward Angel* by Thomas Wolfe
+* *Gravity's Rainbow* by Thomas Pynchon
+* *Babbit* by Sinclair Lewis
+* *Blood Meridian* by Cormac McCarthy
+* *All the Pretty Horses* by Cormac McCarthy
+* *Lonesome Dove* by Larry McMurtry
+* *Main Street* by Sinclair Lewis
+* *Elmer Gantry* by Sinclair Lewis
+* *Arrowsmith* by Sinclair Lewis
+* *Dodsworth* by Sinclair Lewis
+* *The Grapes of Wrath* by John Steinbeck
+* *Of Mice and Men* by John Steinbeck
+* *The Great Gatsby* by F. Scott Fitzgerald
+* *White Noise* by Don DeLillo
+* *Underworld* by Don DeLillo
+* *The Foundation Series* by Isaac Asimov (includes 7 books)
+* *The Sports Writer* by Richard Ford
+* *Independence Day* by Richard Ford
+* *Absalom, Absalom* by William Faulkner
+* *Riders of the Purple Sage* and everything else ever written by Zane Grey
+* *The World According to Garp* by John Irving
+* *Tale of Two Cities* and everything else ever written by Charles Dickens 
+* *Martian Chronicles* by Ray Bradbury
+* *Road to Wellville* by T. Coraghessan Boyle
+* *Riven Rock* by T. Coraghessan Boyle
+* *One Flew Over the Cookoo's Nest* by Ken Kesey
+* *On the Road* by Jack Kerouac
+
+
+**NOTE:** This list, pulled from immediate recall, must necessarily be under ongoing development.
+
+
 ## Books About Writing
 
 Here is a list of some of the most well-respected books on novel writing, along with a brief description of each:
