@@ -159,8 +159,6 @@ Here is my sense for how this plotting, pyramid approach might be visualized.
 
 ![Novel Plot](/../Images/FictionGraph.png)
 
-![Novel Plot](/../Images/FictionGraph.png)
-
 ## Dramatic Milestones
 
 Dramatic milestones are key events or turning points in a novel that advance the plot, develop the characters, and create tension and suspense for the reader. They are also known as plot points, story beats, or dramatic units. Dramatic milestones are essential for creating a satisfying and coherent story structure that keeps the reader engaged and invested in the outcome of the novel. Dramatic milestones are meant to serve your story and your reader by creating a clear, coherent, and compelling narrative arc that keeps them hooked from start to finish.
