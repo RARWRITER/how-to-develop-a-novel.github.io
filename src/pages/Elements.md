@@ -183,7 +183,22 @@ These are some of the most common dramatic milestones in writing a novel, but th
 
 ## Character development
 
-section under development
+Character development is the process of creating fictional characters with the same depth and complexity as real-life human beings. It is an essential element of writing a novel, as it makes the readers care about the characters and their journey. Character development involves several steps, such as:
+
+* Giving your characters a background, personality, motivation, and goal that explain who they are and what they want.
+* Giving your characters strengths and weaknesses that make them realistic and relatable.
+* Giving your characters external and internal conflicts that challenge them and create tension and suspense.
+* Giving your characters a character arc that shows how they change or grow over the course of the story.
+* Giving your characters distinctive features, mannerisms, and voices that make them stand out from each other.
+
+To help you with character development, you can use various tools and techniques, such as:
+
+* Creating a character profile or sketch that summarizes the main traits and details of your character.
+* Using a character development template or worksheet that guides you through the process of building your character step by step.
+* Researching your character’s background, culture, occupation, or interests to make them authentic and believable.
+* Writing from your character’s point of view to get inside their head and understand their thoughts and feelings.
+* Using dialogue to show your character’s personality, voice, and relationships with other characters.
+* Showing, not telling, your character’s emotions, actions, and reactions through descriptive language and imagery.
 
 
 [Back to the Table of Contents](/../../index.md)
