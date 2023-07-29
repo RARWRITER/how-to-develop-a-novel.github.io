@@ -63,7 +63,7 @@ Here are a books that I would include as must-reads:
 * *Martian Chronicles* by Ray Bradbury
 * *Road to Wellville* by T. Coraghessan Boyle
 * *Riven Rock* by T. Coraghessan Boyle
-* *One Flew Over the Cookoo's Nest* by Ken Kesey
+* *One Flew Over the Cuckoo's Nest* by Ken Kesey
 * *On the Road* by Jack Kerouac
 * *Confederacy of Dunces* by John Kennedy Toole
 * *Grendel* by John Gardner
