@@ -46,7 +46,37 @@ Point of view is a crucial element of writing a novel, as it shapes how the read
 
 ## Timeline
 
-section under development
+Time marches on - and it is good that it does, or your novel would never get off the starting blocks.
+
+The timeline of a novel (and life) tracks the sequence of events, the character development, and the historical accuracy of the story. 
+
+Because we humans are quite familiar with the clock, and how it proceeds through every minute, every hour, every day, in a straight-forward fashion, developing a timeline for your novel comes pretty naturally. We think in linear terms, and that's what a timeline is: a straight shot from the starting line to the final line. Timelines, in novel development, are both story drivers, and planning devices. You can use a graphic tool, a word document, or a spreadsheet. 
+
+1. Start by deciding the time span of your novel. How long does the story last? A day, a week, a year, a lifetime? This will help you determine the scale and scope of your timeline.
+
+2. Identify the major events and milestones of your plot. These are the turning points, the climaxes, the conflicts, and the resolutions that move the story forward. Write them down in chronological order, along with the date and time they occur.
+
+3. Fill in the gaps between the major events with smaller scenes and details. These are the actions and reactions that show how your characters react to the events, how they grow and change, and how they interact with each other. You can also add historical facts, background information, or foreshadowing clues that enrich your story.
+
+4. Review your timeline and make sure it is consistent and coherent. Check for any errors, contradictions, or repetitions. Make sure your timeline matches your genre expectations and your target audience. Adjust or delete any scenes that are unnecessary or irrelevant to your plot.
+
+### Pace and Timelines
+
+Developing a graphic timeline for your story is useful in helping the writer stay coordinated and consistent in the story-telling. Even more importantly, it is an aid to the reader, creating an order to events - logical or otherwise - giving them some bearing on how far they have progressed into the story. That is, of course, tricky for the writer. Events in the story must coordinate with the established timeline in ways that comport with the reader's expectations given what they have read to any one point. Writers orient their readers by dint of the pace developed for the timeline of a story. It is important that a writer remain consistent with the pacing of a timeline. A story that rushes to a conclusion in some way not consistent with how the story has rolled out on the way to resolution - or is arrived at in a manner not consistent with what we know of the reality of passing time - will annoy a reader. They'll feel the error in the writing, in the timeline, and they'll resent that the story ended so poorly, whatever happens in the final chapter. 
+
+Timelines must feel natural, familiar. They are the anchor point we human readers have with fiction, the tether that ties imagination to something we know, think about constantly, and can't avoid: time, and the passing of it. The writer must respect that and get the pacing of the timeline "right".
+
+### Character Timelines
+
+Because novels typically involved multiple characters, all of different ages, born at different times, maturing through different periods of history. a complex novel will, either actively or passively, be affected by, and possibly deal with, a number of timeless associated with each character.
+
+Character timelines hugely impact character development. A ten year old behaves differently than does a twenty-five year old, because they are at different points in their timelines. Writers may make the choice to develop character back-stories, to explain their behaviors at some point in time.
+
+Writers often use time shifting - flashbacks - to insert stories within the main story to add richness to overall narrative.
+
+Obviously, this takes some careful planning and intuitive insight. If time-shifting flashback scenes are not handled sensitively, they may baffle and frustrate the reader.
+
+Too much jumping aound a novel's timeline, to tell character back=stories, can feel ham-handed. Here you have one of those differentiators, the type of handling issue that separates incompetent writers from the good, the professional, and the brilliant. 
 
 ## Voice
 
