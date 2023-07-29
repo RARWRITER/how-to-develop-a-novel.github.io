@@ -102,11 +102,17 @@ There are three voice types in writing a novel:
 
 * **Narrator’s voice:** This is the voice that tells the story in your novel. It is influenced by the point of view you choose for your novel, such as first person, third person limited, or third person omniscient. It also affects the mood, atmosphere, and suspense of your story. Some narrators who have a compelling and captivating voice are Nick Carraway from The Great Gatsby, Death from The Book Thief, and The Hitchhiker’s Guide to the Galaxy.
 
-
-
 ## Attitude
 
-section under development
+Attitude in a novel is the way the author or the characters express their feelings, opinions, and perspectives about the subject matter of the story. Attitude can affect the tone, mood, and meaning of the novel, as well as the reader’s engagement and enjoyment of the story. Attitude can be conveyed through various elements of writing, such as word choice, sentence structure, figurative language, point of view, and details.
+
+Some examples of attitude in novels are:
+
+* In *The Catcher in the Rye* by J.D. Salinger, the protagonist and narrator Holden Caulfield has a cynical, sarcastic, and rebellious attitude towards society and adulthood. He uses informal, colloquial, and slang language to express his thoughts and feelings, often criticizing or mocking the people and situations he encounters. His attitude reveals his alienation, confusion, and insecurity as a teenager who struggles to find his identity and purpose in life.
+
+* In *Pride and Prejudice* by Jane Austen, the author has a witty, ironic, and satirical attitude towards the social norms and expectations of her time. She uses subtle humor, dialogue, and characterization to expose the flaws and follies of her characters, especially their prejudices and pride. Her attitude also reflects her feminist views and values, as she challenges the stereotypes and limitations imposed on women in her society.
+
+* In *The Hunger Games* by Suzanne Collins, the author has a critical, dystopian, and suspenseful attitude towards the futuristic world she creates. She uses vivid descriptions, action scenes, and symbolism to portray the harsh realities and injustices of a society where children are forced to fight to the death in a televised competition. Her attitude also evokes sympathy and admiration for her protagonist Katniss Everdeen, who defies the oppressive system and becomes a symbol of hope and resistance.
 
 ## Plot
 
@@ -153,13 +159,27 @@ Here is my sense for how this plotting, pyramid approach might be visualized.
 
 ![Novel Plot](/../Images/FictionGraph.png)
 
-
-
-
-
 ## Dramatic Milestones
 
-section under development
+Dramatic milestones are key events or turning points in a novel that advance the plot, develop the characters, and create tension and suspense for the reader. They are also known as plot points, story beats, or dramatic units. Dramatic milestones are essential for creating a satisfying and coherent story structure that keeps the reader engaged and invested in the outcome of the novel. Dramatic milestones are meant to serve your story and your reader by creating a clear, coherent, and compelling narrative arc that keeps them hooked from start to finish.
+
+There are different ways to organize and identify dramatic milestones in a novel, depending on the genre, style, and purpose of the story. However, some common dramatic milestones that most novels share are:
+
+* **The hook:** This is the opening scene or chapter of the novel that introduces the main character, the setting, and the conflict. The hook should capture the reader’s attention and curiosity and make them want to read more.
+
+* **The inciting incident:** This is the event or situation that triggers the main character’s journey or quest. It disrupts their normal life and presents them with a problem, a challenge, or an opportunity that they must pursue or overcome.
+
+* **The first plot point:** This is the point where the main character makes a decision or takes an action that commits them to their goal and sets them on a new course. It marks the end of the first act and the beginning of the second act of the novel.
+
+* **The midpoint:** This is the middle point of the novel where the main character faces a major crisis, a reversal, or a revelation that changes their situation or perspective. It can be either a positive or a negative event, but it should raise the stakes and complicate the conflict.
+
+* **The second plot point:** This is the point where the main character receives new information, resources, or allies that help them prepare for the final confrontation or resolution. It marks the end of the second act and the beginning of the third act of the novel.
+
+* **The climax:** This is the highest point of tension and excitement in the novel where the main character faces their ultimate challenge or enemy and achieves their goal or fails to do so. It is also known as the turning point, as it determines the outcome of the story.
+
+* **The resolution:** This is the final scene or chapter of the novel that wraps up the loose ends, reveals the consequences of the climax, and shows how the main character has changed or grown as a result of their journey. It should provide a sense of closure and satisfaction for the reader.
+
+These are some of the most common dramatic milestones in writing a novel, but they are not fixed or rigid rules. Depending on your creative vision and artistic expression, you can modify, add, or omit some of these milestones to suit your story needs. However, you should always keep in mind that  
 
 ## Character development
 
