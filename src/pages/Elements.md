@@ -179,7 +179,7 @@ There are different ways to organize and identify dramatic milestones in a novel
 
 * **The resolution:** This is the final scene or chapter of the novel that wraps up the loose ends, reveals the consequences of the climax, and shows how the main character has changed or grown as a result of their journey. It should provide a sense of closure and satisfaction for the reader.
 
-These are some of the most common dramatic milestones in writing a novel, but they are not fixed or rigid rules. Depending on your creative vision and artistic expression, you can modify, add, or omit some of these milestones to suit your story needs. However, you should always keep in mind that  
+Depending on your creative vision and artistic expression, you can modify, add, or omit some of these milestones to suit your story needs.   
 
 ## Character development
 
