@@ -68,7 +68,7 @@ Timelines must feel natural, familiar. They are the anchor point we human reader
 
 ### Character Timelines
 
-Because novels typically involved multiple characters, all of different ages, born at different times, maturing through different periods of history. a complex novel will, either actively or passively, be affected by, and possibly deal with, a number of timeless associated with each character.
+Because novels typically involved multiple characters, all of different ages, born at different times, maturing through different periods of history, a complex novel will, either actively or passively, be affected by, and possibly deal with, a number of timelines associated with each character.
 
 Character timelines hugely impact character development. A ten year old behaves differently than does a twenty-five year old, because they are at different points in their timelines. Writers may make the choice to develop character back-stories, to explain their behaviors at some point in time.
 
