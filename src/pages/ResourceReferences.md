@@ -65,6 +65,9 @@ Here are a books that I would include as must-reads:
 * *Riven Rock* by T. Coraghessan Boyle
 * *One Flew Over the Cookoo's Nest* by Ken Kesey
 * *On the Road* by Jack Kerouac
+* *Confederacy of Dunces* by John Kennedy Toole
+* *Grendel* by John Gardner
+* *Mickelson's Ghost* by John Gardner
 
 
 **NOTE:** This list, pulled from immediate recall, must necessarily be under ongoing development.
