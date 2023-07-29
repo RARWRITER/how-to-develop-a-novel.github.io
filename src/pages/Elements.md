@@ -32,17 +32,23 @@ Therefore, setting is not just a backdrop for a story, but a vital element that 
 
 ## Point of view
 
-Point of view is a term that refers to the perspective from which a story is told. It determines who is narrating the story, how much they know, and how they relate to the reader. Point of view is an important choice for a writer, as it can affect the tone, mood, and meaning of the story.
+Point of view is a term that refers to the perspective from which a story is told. It determines who is narrating the story, how much they know, and how they relate to the reader. It shapes how the reader perceives and engages with the story. Point of view is an important choice for a writer, as it can affect the tone, mood, and meaning of the story.
 
 **THREE MAIN TYPES OF POINT OF VIEW**
 
 * **First Person:** First person point of view uses the pronouns “I” and “we” to tell the story from the writer’s or a character’s point of view. The reader can access the narrator’s thoughts, feelings, and opinions directly, creating a sense of intimacy and connection. However, this point of view also limits the reader’s knowledge to what the narrator knows and experiences, which can be biased or unreliable. First person point of view is common in novels that are character-driven, such as young adult, science fiction, and memoir.
 
-* **Second Person:** Second person point of view uses the pronouns “you” and “your” to address the reader directly, as if they are part of the story. The reader becomes an active participant in the story, making choices and facing consequences. However, this point of view can also be intrusive or alienating, as it imposes a certain role and perspective on the reader. Second person point of view is rare in novels, but it can be found in some experimental or interactive fiction.
+* **Second Person:** Second person point of view uses the pronouns “you” and “your” to address the reader directly, as if they are part of the story. The reader becomes an active participant in the story, making choices and facing consequences. However, this point of view can also be intrusive or alienating, as it imposes a certain role and perspective on the reader. 
+
+Second person point of view is rare in novels, but it can be found in some experimental or interactive fiction. AUTHOR'S NOTE: I use second person POV from time-to-time in *ATWOOD: A Toiler's Weird Odyssey of Deliverance* as a device to break down the wall that effective dramatic presentation is typically all about building. Many readers, not oriented to such audacity, find that jarring, but I chose to use the device (sparingly) to remind the reader that the novel, which seems a lot like historical fiction, is really a fantasy, a thing other than what it seems. It is about the development of the United States of America. You'd have to read the novel for any of that to make sense.
 
 * **Third Person:** Third person point of view uses the pronouns “he”, “she”, “they”, and other names to tell the story from an outside or objective point of view. The reader can observe the actions and dialogues of multiple characters, as well as their thoughts and feelings if the narrator is omniscient (all-knowing). However, this point of view can also create a distance or detachment between the reader and the characters, as well as a loss of intimacy or voice. Third person point of view is common in novels that are plot-driven, such as fantasy, mystery, and historical fiction.
 
-Point of view is a crucial element of writing a novel, as it shapes how the reader perceives and engages with the story. A writer should choose a point of view that suits their genre, theme, and style, as well as their intended effect on the reader.
+Third person point of view comes in two types: *limited* and *omniscient*: 
+
+* In third person limited, the narrator only knows and reveals the thoughts and feelings of one character at a time. 
+
+* In third person omniscient, the narrator knows and reveals everything about all the characters at any time.
 
 ## Timeline
 
@@ -82,7 +88,21 @@ Too much jumping aound a novel's timeline, to tell character back=stories, can f
 
 ## Voice
 
-section under development
+Voice, in writing a novel, refers to the perspective and tone of your narrator or your characters, and is as complex a topic as is any other aspect of novel writing. Voice is the way you express - through your words, sentences, and paragraphs - personality, opinion, and emotion.
+
+A novel will have a voice - typically the voice of the narrator of the story, that gives the work an overall feel - but most novels involve a number of individual characters. Each of those characters, if you understand the character you are creating well (fully fleshed), you'll "realize" their own natural voice. It is probably important that writers clearly hear their characters' voices in his or her heads, at the very least - probably critical to creating truly engaging characters. Voices - the sound-feelings writers place in their readers' minds - may make stories more engaging, unique, and authentic.
+
+You, the writer, must make decisions asround how, and whether, to use those character voices in your story.
+
+There are three voice types in writing a novel:
+
+* **Author’s voice:** This is the distinctive style and voice that makes your writing recognizable as yours. It is influenced by your word choice, syntax, punctuation, rhythm, and tone. It also reflects your worldview, values, and beliefs. Some authors who have a strong and recognizable voice are J.K. Rowling, Ernest Hemingway, and Jane Austen.
+
+* **Character’s voice:** This is the way your characters speak and think in your novel. It is influenced by their personality, background, age, gender, culture, and emotions. It also reveals their motivations, goals, and conflicts. Each character should have a unique and consistent voice that distinguishes them from others. Some characters who have a memorable and distinctive voice are Sherlock Holmes, Katniss Everdeen, and Holden Caulfield.
+
+* **Narrator’s voice:** This is the voice that tells the story in your novel. It is influenced by the point of view you choose for your novel, such as first person, third person limited, or third person omniscient. It also affects the mood, atmosphere, and suspense of your story. Some narrators who have a compelling and captivating voice are Nick Carraway from The Great Gatsby, Death from The Book Thief, and The Hitchhiker’s Guide to the Galaxy.
+
+
 
 ## Attitude
 
