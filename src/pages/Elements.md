@@ -62,7 +62,9 @@ Because we humans are quite familiar with the clock, and how it proceeds through
 
 ### Pace and Timelines
 
-Developing a graphic timeline for your story is useful in helping the writer stay coordinated and consistent in the story-telling. Even more importantly, it is an aid to the reader, creating an order to events - logical or otherwise - giving them some bearing on how far they have progressed into the story. That is, of course, tricky for the writer. Events in the story must coordinate with the established timeline in ways that comport with the reader's expectations given what they have read to any one point. Writers orient their readers by dint of the pace developed for the timeline of a story. It is important that a writer remain consistent with the pacing of a timeline. A story that rushes to a conclusion in some way not consistent with how the story has rolled out on the way to resolution - or is arrived at in a manner not consistent with what we know of the reality of passing time - will annoy a reader. They'll feel the error in the writing, in the timeline, and they'll resent that the story ended so poorly, whatever happens in the final chapter. 
+Developing a graphic timeline for your story is useful in helping the writer stay coordinated and consistent in the story-telling. Even more importantly, it is an aid to the reader, creating an order to events - logical or otherwise - giving them some bearing on how far they have progressed in their reading of the story, their immersion. 
+
+That is, of course, tricky for the writer. Events in the story must coordinate with the established timeline in ways that comport with the reader's expectations given what they have read to at any one point. Writers orient their readers by dint of the pace developed for the timeline of a story. It is important that a writer remain consistent with the pacing of their story, their timeline. A story that rushes to a conclusion in some way not consistent with how the story has rolled out on the way to resolution - or is arrived at in a manner not consistent with what we know of the reality of passing time - will annoy a reader. They'll feel the error in the writing, in the timeline, and they'll resent that the story ended poorly, whatever happens in the final chapter. They'll be responding to the handling of it all - of the writing itself, which is not really what the writer wants readers to be thinking about.
 
 Timelines must feel natural, familiar. They are the anchor point we human readers have with fiction, the tether that ties imagination to something we know, think about constantly, and can't avoid: time, and the passing of it. The writer must respect that and get the pacing of the timeline "right".
 
@@ -76,7 +78,7 @@ Writers often use time shifting - flashbacks - to insert stories within the main
 
 Obviously, this takes some careful planning and intuitive insight. If time-shifting flashback scenes are not handled sensitively, they may baffle and frustrate the reader.
 
-Too much jumping aound a novel's timeline, to tell character back=stories, can feel ham-handed. Here you have one of those differentiators, the type of handling issue that separates incompetent writers from the good, the professional, and the brilliant. 
+Too much jumping aound a novel's timeline, to tell character back=stories, can feel ham-handed. Here you have one of those differentiators, the type of handling issue that separates incompetent writers from the good, the professional, and the brilliant. AUTHORS NOTE: It seems to be "the professional" who gets the rare traditional publishing deal.
 
 ## Voice
 
